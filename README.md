@@ -5,7 +5,7 @@
 
 ## 自定义目录说明:
 
-examples：目录存放各种接口的demo
+example：目录存放各种接口的demo
 
 libprivate：目录存放外部jar包存放路径，外部jar包不要放到lib下
 
