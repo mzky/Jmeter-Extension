@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+20211217142350498,1674,HTTP请求,200,OK,线程组 1-1,text,true,,2559,117,1,1,https://www.baidu.com/,1673,0,1659
