@@ -30,3 +30,10 @@ toTest.bat ：批量执行jmx目录下的场景脚本
 convReport.sh ：批量解析jtl目录下的报告文件生成html报告
 
 runTest.sh ：批量执行jmx目录下的场景脚本
+
+
+##性能测试报告汇总更新：
+
+支持jmeter5.5+
+
+https://github.com/mzky/Jmeter-Extension/releases/tag/v1.0
